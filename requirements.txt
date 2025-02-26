@@ -1,0 +1,12 @@
+huggingface_hub==0.25.2
+
+discord==2.3.2
+gradio==4.15.0
+asyncio==3.4.3
+
+torch==2.1.0
+transformers==4.36.0
+numpy<2
+
+accelerate==0.25.0
+bitsandbytes==0.41.0
